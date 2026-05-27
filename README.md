@@ -1,7 +1,7 @@
 # Hi there, I'm Lucas 👋
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain,pandas,react,express,mysql,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=react,express,mysql,fastapi,docker" />
 </p>
 
 <p align="center">
