@@ -23,8 +23,8 @@ I'm a Computer Engineering student at Universidade Federal do Rio Grande do Sul,
 
 My experience includes:
 
-* 📚 Undergraduate Researcher in Artificial Intelligence and NLP
-* 💼 Software + AI Development Intern at AlterVision
+* 📚 Undergraduate Researcher in Artificial Intelligence and NLP for definition extraction and synthetic data generation
+* 💼 Full Stack + AI Development Intern at AlterVision
 * 🔬 Current Undergraduate Researcher working on multi-system AI applied to the oil and gas industry
 * 🎓 Founder and Current Projects Director of UFCSPA's **Academic League of Innovation and Healthcare** (https://www.instagram.com/lits.ufcspa/)
 
